@@ -19,6 +19,7 @@ public class testFrame {
         Frame fr = new Frame();
         fr.setVisible(true);
         fr.setBounds(600, 200, 450, 400);
+        System.out.println("Repositorio en Java");
     }
     
 }
