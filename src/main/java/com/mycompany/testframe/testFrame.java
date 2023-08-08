@@ -20,6 +20,7 @@ public class testFrame {
         fr.setVisible(true);
         fr.setBounds(600, 200, 450, 400);
         System.out.println("Repositorio en Java");
+        System.out.println("che me falta un plugin");
     }
     
 }
